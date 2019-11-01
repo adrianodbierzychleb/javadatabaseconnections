@@ -1,3 +1,4 @@
 /.idea/
 javadatabaseconnections.iml
 target/
+Resources/app.properties
